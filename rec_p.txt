@@ -1,0 +1,4 @@
+rec_pattern/test.bmp
+rec_pattern/
+exportari/rezultat_ocr.bmp
+0

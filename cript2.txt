@@ -1,0 +1,3 @@
+exportari/peppers_crp.bmp
+exportari/peppers_dcr.bmp
+criptografie/secret_key.txt
